@@ -1,2 +1,2 @@
 # login/register
-Using html/css write code about login/register，主要是简单的的左中右，上中下的<div>页面布局。
+HTML/css写的登录页面（login.html），注册页面(register.html)论坛页面（forum.thml）,主要是练习基础页面布局。
